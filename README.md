@@ -18,8 +18,12 @@ In this HR case study, we delve into the realm of absenteeism to shed light on t
 
 **Behold, the HR dashboard meticulously crafted by our team.**
 
-![Absentee_Dashboard.PNG](attachment:Absentee_Dashboard.PNG)
+![Absentee_Dashboard](https://github.com/estherakinniyi/HR-Absenteeism-Case-Study/assets/110997228/25d94bc4-2233-4cf3-971b-274e2591003d)
 
+
+
+
+![Performance_Dashboard](https://github.com/estherakinniyi/HR-Absenteeism-Case-Study/assets/110997228/e5649735-97c2-44b0-8b74-5fff4bcbcfee)
 
 ## Key Insights and Conclusions:
 
